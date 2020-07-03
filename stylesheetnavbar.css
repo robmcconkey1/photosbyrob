@@ -1,0 +1,34 @@
+
+/* it worked */
+ 
+h1 {
+color: red
+
+}
+
+
+
+
+h2 {text-align: center;
+  font-family:arial;}
+
+
+
+
+ol,ul, li {
+	list-style: none;
+}
+
+#mainMenu {
+	margin: 10px;
+	width: 900px;
+	font-family: sans-serif;
+}
+#mainMenu li {
+	display:block;
+	width:120px;
+	float:left;
+	margin-left:2px;
+	border:1px solid #000;
+}
+	

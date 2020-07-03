@@ -1,0 +1,31 @@
+slider 
+
+
+
+<script src="jquery.min.js"></script>
+<script src="js/jssor.slider.mini.js"></script>
+
+<h3>
+<div id="demo">
+<div u="slides">
+<div><img u="image" src="canterbury1.jpg" /></div>
+<div><img u="image" src="london1.jpg" /></div>
+<div><img u="image" src="soho1.jpg" /></div>
+<div><img u="image" src="newyork1.jpg" /></div>
+<div><img u="image" src="canterbury1.jpg" /></div>
+<div><img u="image" src="canterbury1.jpg" /></div>
+<div><img u="image" src="canterbury1.jpg" /></div>
+<div><img u="image" src="canterbury1.jpg" /></div>
+</div>
+</div>
+
+<script>
+jQuery(document).ready(function ($) {
+var options = {
+// Options
+};
+var jssor_slider1 = new $Jssor<a href="https://www.jqueryscript.net/slider/">Slider</a>$("demo", options);
+});
+</script>
+
+</h3>
