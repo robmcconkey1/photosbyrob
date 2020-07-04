@@ -192,7 +192,7 @@ h3 {
   .mygrid {  
     display: grid;  
     grid-template-columns: 1fr 1fr 1fr;  
-    grid-template-rows: 200px 200px;  
+    grid-template-rows: 1fr 1fr 1fr;  
 }
 
 .mygrid > div > img {  
