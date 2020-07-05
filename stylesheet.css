@@ -224,7 +224,7 @@ h3 {
     object-fit: cover;  }
 
  .mygridtravel {display: grid;  
-    grid-template-columns: 1fr 1fr 1fr ;  
+    grid-template-columns: 1fr 1fr 1fr 1fr ;  
     grid-template-rows: 500px }
 
 .mygridtravel > div > img {  
