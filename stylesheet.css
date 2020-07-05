@@ -215,7 +215,7 @@ h3 {
  .mygridstreet {  
     display: grid;  
     grid-template-columns: 1fr 1fr 1fr 1fr ;  
-    grid-template-rows: 800px ;  
+    grid-template-rows: 1200px ;  
 }
 
 .mygridstreet > div > img {  
