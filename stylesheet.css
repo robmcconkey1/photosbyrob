@@ -215,12 +215,12 @@ h3 {
  .mygridstreet {  
     display: grid;  
     grid-template-columns: 1fr 1fr 1fr 1fr ;  
-    grid-template-rows: 10fr ;  
+    grid-template-rows: 1100px ;  
 }
 
 .mygridstreet > div > img {  
     width: 100%;  
-    height: 300%;
+    height: 100%;
     object-fit: cover;  
 }
 .mygrid > div > .overlay {
