@@ -3,11 +3,12 @@
 
  h2, h3, h4{
 	text-align: center;
-  font-family:courier new;
+  font-family: 'Abel', sans-serif;
   font-weight: normal;
   font-size: 18px;
   margin:0px
 }
+
 
 h1 {
 	font-family: 'Dr Sugiyama', cursive;
@@ -22,7 +23,7 @@ h1 {
 #mainMenu {
 	
 	width:100%;
-	font-family: courier new;
+	font-family: abel;
 	position: relative;
 	text-align: center
     
@@ -178,7 +179,7 @@ h3 {
   top: 35%;
   left: 50%;
   transform: translate(-50%, -50%);
-  font-family:courier new;
+  font-family: 'Abel', sans-serif;
   font-weight: normal;
   font-size: 38px;
   text-align: center;
