@@ -1,7 +1,7 @@
 
 /* it worked */
 
-h1, h2, h3, h4{
+ h2, h3, h4{
 	text-align: center;
   font-family:courier new;
   font-weight: normal;
@@ -9,6 +9,13 @@ h1, h2, h3, h4{
   margin:0px
 }
 
+h1 {
+	font-family: 'Dr Sugiyama', cursive;
+	font-weight: normal;
+  font-size: 48px;
+  margin:0px;
+  text-align: center;
+}
 
 /* My nav bar (called the main menu) */
 
