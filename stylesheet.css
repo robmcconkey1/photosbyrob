@@ -206,7 +206,7 @@ h3 {
 
  .mygridstreet {  
     display: grid;  
-    grid-template-columns: 200fr ;  
+    grid-template-columns: 200px ;  
     grid-template-rows: 200px ;  
 }
 
