@@ -206,13 +206,13 @@ h3 {
 
  .mygridstreet {  
     display: grid;  
-    grid-template-columns: 200px ;  
-    grid-template-rows: 200px ;  
+    grid-template-columns: 1fr 1fr 1fr ;  
+    grid-template-rows: 1fr 1fr 1fr;  
 }
 
 .mygridstreet > div > img {  
-    width: 20%;  
-    height: 20%;  
+    width: 100%;  
+    height: 100%;
     object-fit: cover;  
 }
 .mygrid > div > .overlay {
